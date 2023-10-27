@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[https://viduwaa.github.io/](https://viduwaa.github.io/){:target="_blank"}
+<code>
+  <center><a href="https://viduwaa.github.io/" target="_blank">viduwaa.github.io</a></center>
+</code>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
