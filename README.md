@@ -8,7 +8,7 @@
 </div>
 
 ## 
-<div align="center">
+<div align="center" style="margin-bottom: 5px;">
 <img src="https://github-profile-trophy.vercel.app/?username=viduwaa&theme=monokai&column=4&row=1" alt="viduwaa" />
 
 </div>
@@ -55,7 +55,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50"/></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;filter: invert(1);" src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
