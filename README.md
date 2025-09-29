@@ -4,7 +4,7 @@
 # <div align="center">Hi, I'm Vidula Deneth ✌️</div>  
 <div align="center">🏫 I’m currently undergraduate at Rajarata University of Sri Lanka</div>  
 <div align="center">🛠️ Building my skills in Web devlopment and Devops Engineering<br><br>
-<a href="https://viduwa.me"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
+<a href="https://viduwa.is-a.dev"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
 </div>
 
 ## 
